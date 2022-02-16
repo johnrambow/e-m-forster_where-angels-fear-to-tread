@@ -11,14 +11,7 @@ body [xml|lang]{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p > span{
-	display: block;
-	padding-left: 1em;
-	text-indent: -1em;
-}
-
-[epub|type~="z3998:poem"] p > span{
-	display: block;
-	padding-left: 1em;
-	text-indent: -1em;
+[epub|type~="z3998:song"] p{
+	text-align: initial;
+	text-indent: 0;
 }
