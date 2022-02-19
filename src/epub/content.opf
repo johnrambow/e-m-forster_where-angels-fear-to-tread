@@ -41,13 +41,15 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">After an English widow impetuously falls in love with a handsome young Tuscan, her panicked in-laws back in England send a rescue party.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>After the widowed Lilia Herriton heads to the dusty Tuscan town of Monteriano with her friend Caroline Abbott, she quickly falls in love with Gino Carella, a handsome younger man. As soon as her overbearing and overly conscientious in-laws hear of an engagement, they panic—they think that a marriage like that would dishonor their family and the memory of their Lilia’s late husband and their child.</p>
+			<p>Her brother-in-law, Philip Herriton, immediately heads to Italy to stop the marriage and “rescue” Lilia from Gino. He soon discovers that he’s too late, and that they’ve already married. Their impulsive decision will have major consequences—not just for the couple itself, but also for Caroline, Philip, and everyone else in their orbit.</p>
+			<p>&lt;a href= &quot;https://standardebooks.org/ebooks/e-m-forster &quot;E. M. Forster&lt;/a&gt; was just twenty-six in 1905, when &lt;i&gt;Where Angels Fear to Tread&lt;/i&gt;, his first novel, was published. In a contemporary review, &lt;i&gt;The Manchester Guardian&lt;/i&gt; called it “almost startlingly original” in its setting and the treatment of its motive, but also wondered if Forster could “could be a little more charitable” in future works. In 1991 it was made into a movie starring Helen Mirren, Helena Bonham Carter, Judy Davis, and Rubert Graves.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2948</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100370319</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -55,25 +57,24 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-m-forster_where-angels-fear-to-tread</meta>
 		<dc:creator id="author">E. M. Forster</dc:creator>
 		<meta property="file-as" refines="#author">Forster, E. M.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Edward Morgan Forster</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/E._M._Forster</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79091231</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Edward Bruce</dc:contributor>
+		<meta property="file-as" refines="#artist">Bruce, Edward</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr97031181</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Richard Fane</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Fane, Richard</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">John Rambow</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rambow, John</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://johnrambow.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
