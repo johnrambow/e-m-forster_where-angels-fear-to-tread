@@ -3,9 +3,9 @@
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
 body [xml|lang]{
- 	font-style: italic; 
- }
- 
+	font-style: italic;
+}
+
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -15,6 +15,7 @@ body [xml|lang]{
 	text-align: initial;
 	text-indent: 0;
 }
+
 @supports(display: flex){
 	#chapter-6 p:nth-child(82){
 		align-items: center;
