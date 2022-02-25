@@ -40,7 +40,8 @@
 		<meta property="term" refines="#subject-3">sh2008101832</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">After an English widow on holiday impetuously falls in love with a handsome young Tuscan, her panicked in-laws send a rescue party.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Soon after the widowed Lilia Herriton arrives at the dusty Tuscan town of Monteriano with her friend Caroline Abbott, she falls in love with Gino Carella, a handsome, and younger, man. When her overbearing in-laws hear of an engagement, they panic—they believe a marriage like that would dishonor their family and the memory of Lilia’s late husband and their child.&lt;/p&gt;
@@ -50,7 +51,6 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2948</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100370319</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Where_Angels_Fear_to_Tread</meta>
