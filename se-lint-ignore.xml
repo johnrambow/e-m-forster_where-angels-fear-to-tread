@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>Span without semantic here to reproduce dialogue element found in scan text.</reason>
+		</ignore>
+		<ignore>
+			<code>t-003</code>
+			<reason>Speaker dialogue continues into next paragraph, where span starts.</reason>
+		</ignore>
+		<ignore>
+			<code>t-036</code>
+			<reason>Paragraph has two extra end quotes to show a total of three possible responses in dialogue.</reason>
+		</ignore>
+		<ignore>
+			<code>t-042</code>
+			<reason>Paragraph has two extra end quotes to show a total of three possible responses in dialogue.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
